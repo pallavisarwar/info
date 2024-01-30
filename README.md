@@ -12,4 +12,5 @@ experience in teaching.
 
 ### Goal
 
-I want to learn programming languages to pursue my career in IT field.
+I want to learn programming languages to pursue my career in IT field. I am very
+excited to learn HTML, CSS and JS.
