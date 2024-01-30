@@ -6,9 +6,9 @@ experience in teaching.
 
 ## Hobbies
 
-1. Travel
+1. Travel and explore new things
 2. Cooking
-3. To learn new things
+3. Music
 
 ### Goal
 
